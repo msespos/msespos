@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi! I'm Mike. I'm a self-taught developer and contributer to the Odin Project. I've built projects in Ruby and Ruby on Rails over the past 2 years. Now I'm learning JS. Thanks for checking out my repos! 
 <!--
 **msespos/msespos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
