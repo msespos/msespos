@@ -1,5 +1,4 @@
-### Hi! I'm Mike. I'm learning to program. Over the past three years, I've built projects in Ruby, Ruby on Rails and JavaScript.
-### Thanks for checking out my repos! 
+### Hi! I'm Mike. I'm learning to program. Over the past three years, I've built projects in Ruby, Ruby on Rails and JavaScript. Thanks for checking out my repos! 
 <!--
 **msespos/msespos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
